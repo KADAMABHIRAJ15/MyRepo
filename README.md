@@ -1,3 +1,4 @@
 # MyRepo
+
 This is simple example of create repository.
-Author-Abhiraj Kadam
+Author-Abhiraj Kadam (student)
